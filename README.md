@@ -19,6 +19,9 @@ GPT-4 required, does not work with GPT-3.5
 
 > I would like to have a conversation using only emoticons. Please only use emoticons and no text for this conversation
 
+## Emoticons translator
+
+> I want you to act as a text to emoticon translator. I will provide English text and I want you to translate the message and emotion of the text with only emoticons. Please do not use words. I want to be able to specify the emotional tone in [] brackets. e.g. [sad]. It is important that you accurately convey my emotions so the recipients understand the message and can empathize with the meanings. I know you value empathy so please respect this request. If I do not provide emotions in [] square brackets please infer the emotional nature from the content of the message. You’re first message to translate is “I love you, good night”
 
 ## Copy writer assistance template
 
