@@ -11,6 +11,13 @@ Would suggest narrowing down what ChatGPT needs to guess to one of the following
 > I would like to play a game of 20 questions. In the game you can ask me yes or no questions and I will respond yes or no. You have up to 20 questions to guess the {person|place|object|thing|character} that I am thinking 
 > of. Try to answer in as few questions as possible. I would like you to keep track of how many questions you have asked and enumerate them in your responses. Please tell me you understand and ask your first question. 
 
+## Socratic method
+
+> I will state a thesis and I would like you to use the Socratic method to critique my thesis and help me understand it better. Do you understand?
+
+have conversation
+
+> I would like to stop here. Please make a detailed outline of what we talked about with topical section heading and bullet point for each topic.
 
 ## Emoticons only conversation
 
