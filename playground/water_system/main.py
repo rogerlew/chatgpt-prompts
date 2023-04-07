@@ -1,8 +1,10 @@
+# GPT-4 wrote this.
+
 import time
 import math
 from typing import Tuple
-
-import time
+import numpy as np
+import matplotlib.pyplot as plt
 
 
 class Pump:
@@ -140,11 +142,8 @@ class WaterSystem:
         self.tank_b.level -= delta / self.tank_b.volume
 
         return delta
-
-import time
-import numpy as np
-import matplotlib.pyplot as plt
-
+    
+   
 if __name__ == "__main__":
     tank_a = Tank(200, 100, 0.5)
     tank_b = Tank(100, 100, 1.0)
